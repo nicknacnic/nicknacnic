@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Layer8
+- 👀 I’m interested in cybersecurity, threat emulation, automation
+- 🌱 I’m currently learning how to code again (lol)
+- 📫 How to reach me: nwillau900@gmail.com
